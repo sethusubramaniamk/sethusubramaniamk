@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sethusubramaniamk
 - 💞️ I’m interested in publishing scripts/codes which can make the day-to-day life of a Embedded/IoT Developer easy. 
-- 👀 Generally, I publish content related to C, C++, Python and hardwares such as RPi, Jetson Nano
+- 👀 Generally, I publish content related to C, C++, Python and hardwares such as Jetson Nano, Raspberry Pi and Arduino/ESP boards
